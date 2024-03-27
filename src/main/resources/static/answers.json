@@ -1,0 +1,79 @@
+{
+    "faq": [
+        {
+            "keywords": [
+                "idade",
+                "anos",
+                "idade em anos",
+                "anos de idade"
+            ],
+            "answer": "Carlos tem 27 anos."
+        },
+        {
+            "keywords": [
+                "data nascimento",
+                "nascimento",
+                "nasceu",
+                "nascimento data"
+            ],
+            "answer": "Carlos nasceu em 16 de Julho de 1996."
+        },
+        {
+            "keywords": [
+                "cidade nascimento",
+                "local nascimento",
+                "nasci em",
+                "cidade natal"
+            ],
+            "answer": "Carlos nasceu em Campo Largo, Paraná."
+        },
+        {
+            "keywords": [
+                "aeronautica",
+                "forca aerea",
+                "forca aerea brasileira",
+                "fab"
+            ],
+            "answer": "Carlos trabalhou durante 8 anos na Força Aérea."
+        },
+        {
+            "keywords": [
+                "tempo morando na Índia",
+                "vivendo na Índia",
+                "morou na Índia",
+                "india",
+                "intercambio"
+            ],
+            "answer": "Carlos fez um intecâmbio para Chennai, na Índia, onde morou e trabalhou por um ano na empresa Tata Consultancy Services."
+        },
+        {
+            "keywords": [
+                "países visitados",
+                "viagens",
+                "lugares visitados",
+                "pais",
+                "paises"
+            ],
+            "answer": "Carlos visitou 5 países: Índia, Chile, Indonésia, Vietnã e Tailândia."
+        },
+        {
+            "keywords": [
+                "Java",
+                "Spring Boot",
+                "desenvolvimento Java",
+                "desenvolvimento Spring Boot"
+            ],
+            "answer": "Proficiente no desenvolvimento de aplicações com Java, Spring Boot e microservices, atendendo a várias necessidades funcionais. \nTranscreveu Drools Rule Language para Java 19 e Spring Boot, aprimorando os produtos TCS para diversos clientes. Gerenciou o KeyCloak para configuração de ambiente, gerando certificados para garantir acesso seguro ao projeto."
+        },
+        {
+            "keywords": [
+                "NLP",
+                "Chatbot",
+                "configuração de chatbot",
+                "personalização de chatbot"
+            ],
+            "answer": "Configurou chatbots TCS Conversa para Processamento de Linguagem Natural, especializados para o mercado LATAM, melhorando a interação e o engajamento do usuário.\n Expert em criar e configurar chatbots para resolução de problemas simples e geração de tickets, otimizando os processos de suporte ao cliente."
+        }
+    ],
+    "default": "Desculpe, mas no momento não consigo responder sua pergunta. Você pode entrar em contato ou encontrar mais informações através dos meios de contato:"
+}
